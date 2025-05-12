@@ -41,7 +41,7 @@ Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all ti
 
 [Monday](https://vanderbilt.zoom.us/rec/share/up-Ap0t3Vp6hhh5etFkA0N65pN_7ysy_179KJRpeD27nsv_6V0_fozPKyFDHrkl8.fSQFZoOAPQ2tUm0N): Introduction to Generative AI Models, AI Augmented Programming (cursor, windsurf, replit etc.)
 
-Wednesday: API Keys, Secure Data Practices
+[Wednesday](https://vanderbilt.zoom.us/rec/share/FhlGu24v5ftvVOVmzmMK8UWh7iQYEzydXJLcarSSZjmnXj0v0Sth1bDtEGJncHzG.YKayWhFD9XpQ-6tU): API Keys, Secure Data Practices
 
 For Wednesday's course, please download and sign up for the following:
 
@@ -54,7 +54,9 @@ For Wednesday's course, please download and sign up for the following:
 
 ### Week 2, 5/12 - 5/16: Reasoning Models, Introduction to Agents, Multimodal Models and Reinforcement Learning
 
-Monday: Reasoning Models, Tool Use and Introduction to Agents
+Monday: Introduction to AI Models, Reasoning Models, Tool Use and Introduction to Agents
+
+[Breakout Room Working Document](https://docs.google.com/document/d/15deDo3TBlgue_7ueoHake-O3HoEqCZKBZOHWfmfUlFQ/edit?usp=sharing)
 
 Wednesday: Langflow, Multimodal Models
 
